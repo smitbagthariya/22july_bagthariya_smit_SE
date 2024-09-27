@@ -1,6 +1,0 @@
-ID: 1
-NAME: smit
-CITY: manavadar
-ID: 2
-NAME: savan
-CITY: junagadh
